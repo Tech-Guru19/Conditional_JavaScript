@@ -1,4 +1,4 @@
-JavaScript Conditional Statements Project
+JAVASCRIPT CONDITIONAL STATEMENTS PROJECT
 This project utilizes conditional statements in JavaScript to solve common problems related to user input and string manipulation. Below is a description of the various functionalities implemented in the code.
 
 Features
