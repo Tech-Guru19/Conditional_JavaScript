@@ -52,7 +52,7 @@ function password() {
         alert("Please input your password!")
     } else if (correctPassword.length < 8) {
         alert("Password must be at least 8 characters long")
-    } else if (!/[A-Z]/.test(correctPassword)) {
+    } else if (/!/[A-Z].test(correctPassword)) {
         alert("Password must contain at least one uppercase letter")
     } else if (!/[a-z]/.test(correctPassword)) {
         alert("Password must contain at least one lowercase letter")
